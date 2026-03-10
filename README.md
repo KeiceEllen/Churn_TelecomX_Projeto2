@@ -73,14 +73,23 @@ Random Forest
 Variável	Importância
 
 customer_tenure	0.196
+
 account_Charges.Total	0.161
+
 account_Charges.Monthly	0.118
+
 internet_InternetService_Fiber optic	0.091
+
 account_PaymentMethod_Electronic check	0.073
+
 account_Contract_Two year	0.068
+
 account_Contract_One year	0.041
+
 internet_InternetService_No	0.032
+
 account_PaperlessBilling	0.029
+
 internet_TechSupport	0.028
 
 📈 Principais Insights
