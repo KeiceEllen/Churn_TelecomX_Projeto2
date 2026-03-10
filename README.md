@@ -69,7 +69,9 @@ Regressão Logística (class_weight='balanced')
 Random Forest
 
 📊 Importância das Variáveis (Principais Fatores de Churn)
+
 Variável	Importância
+
 customer_tenure	0.196
 account_Charges.Total	0.161
 account_Charges.Monthly	0.118
