@@ -84,6 +84,7 @@ account_PaperlessBilling	0.029
 internet_TechSupport	0.028
 
 📈 Principais Insights
+
 🔹 1. Tempo de permanência (Tenure) é o maior preditor de churn
 
 Clientes nos primeiros meses apresentam maior risco de cancelamento.
